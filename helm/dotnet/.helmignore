@@ -1,0 +1,9 @@
+# Chart files
+.Chart.lock
+Chart.yaml
+values.yaml
+
+# Kubernetes resources
+*.yaml
+*.tif
+*.pdf
